@@ -20,6 +20,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/PHP/LARAVEL
 - 💬 Ask me about Web developing 
 
 git clone --depth=1 https://github.com/iqbalhossain550/freeCodeCamp.git
+https://github.com/freeCodeCamp/freeCodeCamp
 
 
 
